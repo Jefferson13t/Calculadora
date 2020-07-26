@@ -1,0 +1,51 @@
+
+h1 {
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+button {
+    
+    margin: 3px;
+    width: 49px;
+    height: 49px;
+    border-radius: 50px;
+}
+#visor {
+    background-color: white;
+    text-align: right;
+    border-style: solid;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.tel {
+    margin-right: 5px;
+    color:black;
+}
+body {
+    margin-top:100px;
+    text-align: center;
+}
+footer {
+    padding-top: 210px;
+    text-align: center;
+}
+#calculadora {
+    border-style: solid;
+    color: white;
+    border-radius: 20px;
+        
+    margin-left: 660px;
+    margin-right: 660px;
+    background-color: black;
+    
+}
+#apagar {
+ background-color: rgb(228, 94, 94);
+}
+#igual {
+    background-color: lightgreen;
+    opacity:0.75;
+}
